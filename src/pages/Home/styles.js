@@ -3,13 +3,15 @@ import Slider from 'react-slick';
 
 import { Text } from '../../components';
 
+//Altura completa
 export const Container = styled.aside`
   background-color: ${({ theme: { colors } }) => colors.background};
   width: 360px;
-  height: 100vh;
+  height: 100vh; 
   overflow-y: scroll;
 `;
 
+//Configuração da caixa de busca
 export const Search = styled.section`
   display: flex;
   flex-direction: column;
