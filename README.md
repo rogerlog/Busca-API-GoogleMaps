@@ -82,4 +82,4 @@ yarn add react-lottie
 
 netlify.com
 copiar a key da api do google e criar uma variável de ambiente no netlify  em Advanced build settings
-![](/.demo/demo1.png)
+![](/.demo/key.png)
